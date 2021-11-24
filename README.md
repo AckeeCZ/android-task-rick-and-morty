@@ -7,6 +7,9 @@
 Goal of this app is to display a bunch of information about the characters of the Rick and Morty universe. Don't know Rick and Morty? Well it's a
 shame, because it's the best TV show!
 
+## Showcase
+In case you want to see how the final app should work check [this](https://play.google.com/store/apps/details?id=cz.ackee.rickmortyshowcase) link in the Play Store and download the app right to your device.
+
 ## API
 
 There is a public [API](https://rickandmortyapi.com/documentation) you should use. The API offers access through GraphQL or traditionally via REST.
